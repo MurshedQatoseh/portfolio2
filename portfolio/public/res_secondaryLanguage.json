@@ -1,0 +1,116 @@
+{
+  "basic_info": {
+    "description_header": "Murshed Qatoseh",
+    "description": "👋I'm Morshed Qatoseh.i`am a graduted from LTUC ASAC  I'm working with newest front-end frameworks like PHP, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜,, and i hope to be a professional full stack developer   💜",
+    "section_name": {
+      "about": "O mnie",
+      "projects": "Projekty",
+      "skills": "Umiejętności",
+      "experience": "Doświadczenie"
+    }
+  },
+  "projects": [
+    {
+      "title": "Coffe-Project",
+      "startDate": "2022",
+      "description": "jest to mały projekt do pokazania menu i dodania do niego kilku szczegółów",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://github.com/MurshedQatoseh/coffe-project2",
+      "Coffe-project": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "HR-Managment-System",
+      "startDate": "2022",
+      "description": "Osobisty projekt na przedmiot studiów. ten projekt, który zrobiłem, aby dowiedzieć się, jak mogę zrobić kartę i dodać do niej szczegóły z odrobiną stylizacji i animacji css :)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com/MurshedQatoseh/HR-management-system",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "To Do List",
+      "startDate": "2022",
+      "description": "ta praca pokazuje, w jaki sposób praca straciła pracę i jak daje nam to wynik tego, co wydarzyło się w sieci!",
+      "images": [
+        
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://github.com/MurshedQatoseh/todo-project",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DefOpenSource",
+      "title": "Front-End Developer",
+      "years": "10.2019 - obecnie",
+      "mainTech": [
+        "Angular 8/9/10"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Stażystka",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "Swagger",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}

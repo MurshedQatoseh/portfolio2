@@ -1,0 +1,119 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Morshed Qatoseh.i`am a graduted from LTUC ASAC  I'm working with newest front-end frameworks like PHP, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜,, and i hope to be a professional full stack developer" ,
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Coffe-Project",
+      "startDate": "2022",
+      "description": "it`s a small project to show menu and add some  details for it",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://github.com/MurshedQatoseh/coffe-project2",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "HR-Managment-System",
+      "startDate": "2022",
+      "description": "Personal project for study subject. this project that i did to learn how i can make a card and add details for it with some  css styling and animation  :)",
+      "images": [
+        "images/photography/p1.jpg",
+        "images/photography/p2.jpg"
+      ],
+      "url": "https://github.com/MurshedQatoseh/HR-management-system",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "To Do List",
+      "startDate": "2022",
+      "description": "this work made for showing when you are done the taks give you the elerts with you did all task and what you should did !",
+      "images": [
+        "images/portfolio/animal-shelter/p2.jpg"
+
+       
+      ],
+      "url": "https://github.com/MurshedQatoseh/todo-project",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DefOpenSource",
+      "title": "Front-End Developer",
+      "years": "10.2019 - present",
+      "mainTech": [
+        "Angular 8/9/10"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        "SignalR",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2020 - 09.2021",
+      "mainTech": [
+        "Angular 10/9"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}
